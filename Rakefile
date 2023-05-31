@@ -8,3 +8,4 @@ task :console do
   # Start a Pry session
   Pry.start
 end
+
